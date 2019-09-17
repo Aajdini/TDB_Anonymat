@@ -25,7 +25,7 @@
                     <a class="dropdown-item"><i class="fas fa-user"></i><?php echo " ".$name_session_usr ?></a>
                     <a class="dropdown-item" href="#"><i class="fas fa-user-cog"></i></a>
                     <div class="dropdown-divider"></div>
-                    <a href="../../inc/db/deconnexion.php" class="btn btn-danger active" role="button" aria-pressed="true"><i class="fas fa-sign-out-alt"></i></a>
+                    <a href="../../inc/user/deconnexion.php" class="btn btn-danger active" role="button" aria-pressed="true"><i class="fas fa-sign-out-alt"></i></a>
                 </div>
             </li>
         </ul>

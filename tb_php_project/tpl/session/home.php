@@ -20,7 +20,7 @@ else{
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="../css/bootstrap/bootstrap.min.css" >
     <link rel="stylesheet" type="text/css" href="../css/index.css">
-    <title>Home</title>
+    <title>Espace privée</title>
   </head>
   <body>
   <?php

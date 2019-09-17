@@ -1,13 +1,12 @@
 #card_inscription{
     width: 80%;
 }
-#captcha_inscription{
-    text-align: center;
-}
-.card-footer{
-    width: 100%;
+#captcha_recovery-pass{
     text-align: center;
 }
 #title,#site_description,#principal_section{
     margin-top : 5%;
+}
+.btn-block{
+    margin-top: 2%;
 }

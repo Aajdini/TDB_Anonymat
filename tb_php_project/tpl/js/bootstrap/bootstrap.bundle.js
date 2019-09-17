@@ -6044,7 +6044,7 @@
     placement: 'right',
     trigger: 'click',
     content: '',
-    template: '<div class="popover" role="tooltip">' + '<div class="arrow"></div>' + '<h3 class="popover-header"></h3>' + '<div class="popover-body"></div></div>'
+    template: '<div class="popover" role="tooltip">' + '<div class="arrow"></div>' + '<h3 class="popover-tools"></h3>' + '<div class="popover-body"></div></div>'
   });
 
   var DefaultType$5 = _objectSpread({}, Tooltip.DefaultType, {
@@ -6056,7 +6056,7 @@
     SHOW: 'show'
   };
   var Selector$7 = {
-    TITLE: '.popover-header',
+    TITLE: '.popover-tools',
     CONTENT: '.popover-body'
   };
   var Event$7 = {
@@ -7010,4 +7010,4 @@
   Object.defineProperty(exports, '__esModule', { value: true });
 
 }));
-//# sourceMappingURL=bootstrap.bundle.js.map
+//# sourceMappingURL=bootstrap.bundle_header.js.map
